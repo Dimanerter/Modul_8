@@ -1,1 +1,5 @@
-{"name": "Gupalo Vasyl", "age": 30, "isStudent": true}
+{
+    "name": "Гупало Василь",
+    "age": 30,
+    "isStudent": true
+}
